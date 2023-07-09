@@ -7,3 +7,4 @@
    ![Mv_Linux](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/Mv_Lunyx.png)
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
    ![apt_mysql](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/apt_mysql.png)
+   ![apt_mysql](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/upt_mysql.png)
