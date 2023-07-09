@@ -8,3 +8,5 @@
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
    ![apt_mysql](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/apt_mysql.png)
    ![upt_mysql](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/upt_mysql.png)
+4. Установить и удалить deb-пакет с помощью dpkg.
+   ![dpkg_mysql](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/dpkg.png)
