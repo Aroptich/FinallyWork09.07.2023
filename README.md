@@ -17,7 +17,7 @@
    
    ```CREATE DATABASE Human_friends;```
 8. Создать таблицы с иерархией из диаграммы в БД
-
+```
    USE Human_friends;
 CREATE TABLE animal_classes
 (
@@ -65,3 +65,4 @@ CREATE TABLE cats
     Genus_id int,
     Foreign KEY (Genus_id) REFERENCES home_animals (Id) ON DELETE CASCADE ON UPDATE CASCADE
 );
+```
