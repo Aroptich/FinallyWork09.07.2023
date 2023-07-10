@@ -12,4 +12,6 @@
    ![dpkg_mysql](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/dpkg.png)
 5. Выложить [историю команд](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/HistoryOfCommands.md) в терминале ubuntu
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: Лошади, верблюды и ослы).
-   ![Diagram](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/Diagram.PNG)https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/Diagram.PNG)
+   ![Diagram](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/Diagram.PNG)
+7. В подключенном MySQL репозитории создать базу данных “Друзья человека”
+   `CREATE DATABASE Human_friends;`
