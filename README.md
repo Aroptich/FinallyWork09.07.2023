@@ -201,4 +201,4 @@ FROM hamsters hm
 LEFT JOIN yang_animal ya ON ya.Name = hm.Name
 LEFT JOIN home_animals ha ON ha.Id = hm.Genus_id;
 ```
-13. Создать класс с Инкапсуляцией методов и наследованием по диаграмме
+13. Создать класс с [Инкапсуляцией методов и наследованием](https://github.com/Aroptich/FinallyWork09.07.2023/tree/main/Model) по диаграмме
