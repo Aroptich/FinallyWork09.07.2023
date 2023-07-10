@@ -66,6 +66,7 @@ CREATE TABLE cats
     Genus_id int,
     Foreign KEY (Genus_id) REFERENCES home_animals (Id) ON DELETE CASCADE ON UPDATE CASCADE
 );
+```
 9. Заполнить низкоуровневые таблицы именами(животных), командами которые они выполняют и датами рождения
     ```
     INSERT INTO cats (Name, Birthday, Commands, Genus_id)
@@ -147,3 +148,4 @@ VALUES ('Горбатый', '2022-04-10', 'вернись', 3),
 ('Самец', '2019-03-12', "остановись", 3),  
 ('Сифон', '2015-07-12', "повернись", 3), 
 ('Борода', '2022-12-10', "улыбнись", 3);
+```
