@@ -10,5 +10,5 @@
    ![upt_mysql](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/upt_mysql.png)
 4. Установить и удалить deb-пакет с помощью dpkg.
    ![dpkg_mysql](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/dpkg.png)
-5. Выложить [историю команд]([https://cloud.yandex.com](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/HistoryOfCommands.md)https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/HistoryOfCommands.md) в терминале ubuntu
+5. Выложить [историю команд](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/HistoryOfCommands.md)https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/HistoryOfCommands.md) в терминале ubuntu
    
