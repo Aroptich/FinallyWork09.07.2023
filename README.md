@@ -15,8 +15,10 @@
    ![Diagram](https://github.com/Aroptich/FinallyWork09.07.2023/blob/main/Diagram.PNG)
 7. В подключенном MySQL репозитории создать базу данных “Друзья человека”
    
-   ```CREATE DATABASE Human_friends;```
-8. Создать таблицы с иерархией из диаграммы в БД
+   ```
+   CREATE DATABASE Human_friends;
+   ```
+9. Создать таблицы с иерархией из диаграммы в БД
 ```
    USE Human_friends;
 CREATE TABLE animal_classes
